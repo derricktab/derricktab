@@ -1,14 +1,33 @@
-- 👋 Hi, I’m @Derrick Zziwa 
-- 👀 I’m interested in Machine Learning,  Deep learning, Flutter,  and 
-- 🌱 I’m currently learning ... machine learning and computer vision plus flutter mobile app development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: derricktab.github.io 
+# Hi there, I'm Derrick Zziwa 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+I'm a Machine Learning and Flutter Developer who is passionate about creating software that can change the world. I have experience in various fields of computer science, including computer vision and data science. 
 
-<!---
-derricktab/derricktab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Technologies and Tools
+
+### Machine Learning
+- Python
+- TensorFlow
+- Keras
+- PyTorch
+
+### Flutter
+- Dart
+- Flutter SDK
+- Firebase
+
+### Other tools
+- Git
+- GitHub
+- Jupyter Notebooks
+
+## 📈 GitHub Stats
+
+[![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=derricktab&count_private=true&show_icons=true&theme=radical)](https://github.com/derricktab/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derricktab&langs_count=8&layout=compact&theme=radical)](https://github.com/derricktab/github-readme-stats)
+
+## 📫 How to reach me
+
+- [derricktab.github.io](https://derricktab.github.io)
+- [Twitter](https://twitter.com/derrickzziwa)
+- [LinkedIn](https://www.linkedin.com/in/derrickzziwa/)
