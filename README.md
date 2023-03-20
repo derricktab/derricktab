@@ -3,7 +3,7 @@
 I'm a Machine Learning and Flutter Developer who is passionate about creating software that can change the world. I have experience in various fields of computer science, including computer vision and data science. 
 
 <div align="center">
-  <img src="https://github.com/derricktab/derricktab/blob/main/profile_picture.jpg" alt="Profile picture" width="200" height="200" />
+  <img src="https://avatars.githubusercontent.com/u/50100571?v=4" alt="Profile picture" width="200" height="200" />
 </div>
 
 ## 🛠️ Technologies and Tools
