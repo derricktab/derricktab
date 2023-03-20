@@ -30,9 +30,7 @@ I'm a Machine Learning and Flutter Developer who is passionate about creating so
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derricktab&langs_count=8&layout=compact&theme=radical)](https://github.com/derricktab/github-readme-stats)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF" width="500" height="320" />
-</div>
+<iframe src="https://giphy.com/embed/7VzgMsB6FLCilwS30v" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v">via GIPHY</a></p>
 
 ## 📫 How to reach me
 
