@@ -26,7 +26,7 @@ I'm a Machine Learning and Flutter Developer who is passionate about building te
 
 ## 📈 GitHub Stats
 
-[![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=derricktab&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=derricktab&count_private=true&show_icons=true&theme=radical)](https://github.com/derricktab/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=derricktab&theme=dark&background=000000)](https://git.io/streak-stats)
 
