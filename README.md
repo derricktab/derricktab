@@ -38,5 +38,5 @@ I'm a Machine Learning and Flutter Developer who is passionate about building te
 - Feel free to contribute to my repositories or invite me to participate in yours!
 
 ## 🏆 Certifications
-- Certified TensorFlow Developer from [Google](https://developers.google.com/certification/directory/tensorflow).
+- Certified TensorFlow Developer from [Google Developers Certification](https://developers.google.com/certification/directory/tensorflow).
 
