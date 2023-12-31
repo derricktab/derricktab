@@ -1,4 +1,4 @@
-# Hi there, I'm Derrick Zziwa 👋
+# Hi there, I'm Derrick Zziwa
 
 I'm a Machine Learning and Flutter Developer who is passionate about building technologies that have a meaningful impact. With expertise in computer vision, data science, and mobile app development, I strive to create solutions that are not only innovative but also accessible and user-friendly.
 
