@@ -31,7 +31,7 @@ I'm a Machine Learning and Flutter Developer who is passionate about building te
 
 - Portfolio: [derricktab.github.io](https://derricktab.github.io)
 - Tweeting about tech and my projects on [Twitter](https://twitter.com/derrick_tab1).
-- Professional networking on [LinkedIn](https://www.linkedin.com/in/derrickzziwa/).
+- Professional networking on [LinkedIn](https://www.linkedin.com/in/derrick-zziwa/).
 
 ## 🤝 Collaboration and Contributions
 - I'm open to collaborating on open source projects and innovative tech ideas.
