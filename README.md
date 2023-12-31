@@ -21,7 +21,7 @@ I'm a Machine Learning and Flutter Developer who is passionate about building te
 - State management patterns and best practices in Flutter.
 
 ## 👨‍💻 Current Work
-- Developing an AI-powered solution to streamline [specific industry or project].
+- Developing an AI-powered solution to streamline Live Events.
 - Collaborating with cross-functional teams to design a user-centric mobile application.
 
 ## 📈 GitHub Stats
