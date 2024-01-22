@@ -26,8 +26,8 @@ I'm a Machine Learning and Flutter Developer who is passionate about building te
 
 ## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derricktab&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Derrick's github activity graph](https://activity-graph.herokuapp.com/graph?username=derricktab&theme=xcode)](https://git.io/starlightknown)
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=derricktab&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=derricktab&theme=tokyonight" />
 ## 📫 How to reach me
 
 - Portfolio: [derricktab.github.io](https://derricktab.github.io)
