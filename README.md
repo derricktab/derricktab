@@ -1,10 +1,7 @@
-# Derrick Zziwa
 
-**Fullstack Machine Learning Developer** passionate about building end-to-end AI-powered solutions and cross-platform mobile applications with a focus on performance, scalability, and user experience.
 
 ## 🚀 About Me
-
-I design, build, and deploy intelligent systems—from data pipelines and ML models to production-ready web and mobile apps. My goal is to bridge the gap between research and real-world impact, delivering accessible and user-centric products.
+Fullstack Machine Learning Developer passionate about building end-to-end AI-powered solutions and cross-platform mobile applications with a focus on performance, scalability, and user experience.
 
 ## 🛠️ Skills & Technologies
 
