@@ -35,11 +35,7 @@ I design, build, and deploy intelligent systems—from data pipelines and ML mod
 - Advanced NLP architectures and custom LLM fine-tuning
 - Scalable microservices with MCP and real-time event processing
 
-## 👨‍💻 Current Projects
-- **EventStream AI**: An AI-driven platform to automate transcription, summarisation, and real-time analytics for live events.
-- **SmartShopper App**: Flutter app with RAG-based recommendation engine and USSD integration for emerging markets.
-
-## 📫 Contact Me
+## 📫 Reach Out
 - 🐦 Twitter: [@derrick_tab1](https://twitter.com/derrick_tab1)
 - 🔗 LinkedIn: [derrick-zziwa](https://www.linkedin.com/in/derrick-zziwa/)
 
