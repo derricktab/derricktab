@@ -1,41 +1,54 @@
-# Hi there, I'm Derrick Zziwa
+# Derrick Zziwa
 
-I'm a Machine Learning and Flutter Developer who is passionate about building technologies that have a meaningful impact. With expertise in computer vision, data science, and mobile app development, I strive to create solutions that are not only innovative but also accessible and user-friendly.
+**Fullstack Machine Learning Developer** passionate about building end-to-end AI-powered solutions and cross-platform mobile applications with a focus on performance, scalability, and user experience.
 
-## 🛠️ Skills and Technologies
+## 🚀 About Me
 
-### Machine Learning
-- Proficient in Python with a strong focus on data-driven solutions.
-- Experienced in building and deploying models with TensorFlow, Keras, and PyTorch.
+I design, build, and deploy intelligent systems—from data pipelines and ML models to production-ready web and mobile apps. My goal is to bridge the gap between research and real-world impact, delivering accessible and user-centric products.
 
-### Mobile Development with Flutter
-- Skilled in Dart and the Flutter SDK for creating cross-platform mobile applications.
-- Leveraging Firebase for backend services and app analytics.
+## 🛠️ Skills & Technologies
 
-### Additional Tools
-- Version control with Git and collaborative development using GitHub.
-- Data analysis and prototyping with Jupyter Notebooks.
+### 🤖 Machine Learning & Data Science
+- **Languages & Frameworks**: Python, TensorFlow, Keras, PyTorch
+- **Data Engineering**: Pandas, NumPy, scikit-learn, SQL
+- **Model Deployment**: Docker, Kubernetes, FastAPI, Model Context Protocol (MCP)
+- **Generative & Retrieval-Augmented AI**: RAG pipelines, LangChain, custom LLM integrations
 
-## 🌱 I’m currently learning ...
-- Advanced neural network architectures for natural language processing.
-- State management patterns and best practices in Flutter.
+### 💻 Fullstack Web Development
+- **Frontend**: Next.js, React, TypeScript
+- **Backend**: Node.js, Express, FastAPI
+- **Databases & APIs**: PostgreSQL, MongoDB, RESTful & GraphQL APIs
+- **DevOps & CI/CD**: GitHub Actions, Docker, AWS / GCP deployments
 
-## 👨‍💻 Current Work
-- Developing an AI-powered solution to streamline Live Events.
-- Collaborating with cross-functional teams to design a user-centric mobile application.
+### 📱 Mobile Development
+- **Flutter & Dart**: Cross-platform UI/UX, custom animations, widget libraries
+- **State Management**: GetX, Provider, Bloc
+- **Backend Integration**: Firebase (Auth, Firestore, Functions), RESTful services
+
+### 🤝 Collaboration & Tools
+- **Version Control**: Git, GitHub, GitFlow
+- **Project Management**: Jira, Trello, Confluence
+- **Documentation & Prototyping**: Jupyter Notebooks, Figma
+- **Continuous Testing**: Jest, pytest, integration tests
+
+## 🌱 Currently Learning
+- Advanced NLP architectures and custom LLM fine-tuning
+- Scalable microservices with MCP and real-time event processing
+
+## 👨‍💻 Current Projects
+- **EventStream AI**: An AI-driven platform to automate transcription, summarization, and real-time analytics for live events.
+- **SmartShopper App**: Flutter app with RAG-based recommendation engine and USSD integration for emerging markets.
 
 ## 📈 GitHub Stats
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=derricktab&layout=compact&theme=tokyonight" />
-## 📫 How to reach me
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=derricktab&layout=compact&theme=tokyonight" />
 
-- Portfolio: [derricktab.github.io](https://derricktab.github.io)
-- Tweeting about tech and my projects on [Twitter](https://twitter.com/derrick_tab1).
-- Professional networking on [LinkedIn](https://www.linkedin.com/in/derrick-zziwa/).
+## 📫 Contact Me
+- 🌐 Portfolio: [derricktab.github.io](https://derricktab.github.io)
+- 🐦 Twitter: [@derrick_tab1](https://twitter.com/derrick_tab1)
+- 🔗 LinkedIn: [derrick-zziwa](https://www.linkedin.com/in/derrick-zziwa/)
 
-## 🤝 Collaboration and Contributions
-- I'm open to collaborating on open source projects and innovative tech ideas.
-- Feel free to contribute to my repositories or invite me to participate in yours!
+## 🤝 Let's Collaborate
+I’m open to contributions, partnerships, and innovative ideas—especially in AI/ML, web/mobile development, and scalable architectures. Feel free to open an issue or send a PR!
 
-## 🏆 Certifications
-- Certified TensorFlow Developer from [Google Developers Certification](https://developers.google.com/certification/directory/tensorflow).
-
+---
+*Inspired by a passion for technology that transforms lives.*
