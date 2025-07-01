@@ -1,7 +1,7 @@
 
 
 ## 🚀 About Me
-Fullstack Machine Learning Developer passionate about building end-to-end AI-powered solutions and cross-platform mobile applications with a focus on performance, scalability, and user experience.
+Fullstack Machine Learning Developer passionate about building end-to-end AI-powered solutions and cross-platform applications with a focus on performance, scalability, and user experience.
 
 ## 🛠️ Skills & Technologies
 
