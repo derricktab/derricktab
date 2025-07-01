@@ -36,14 +36,10 @@ I design, build, and deploy intelligent systems—from data pipelines and ML mod
 - Scalable microservices with MCP and real-time event processing
 
 ## 👨‍💻 Current Projects
-- **EventStream AI**: An AI-driven platform to automate transcription, summarization, and real-time analytics for live events.
+- **EventStream AI**: An AI-driven platform to automate transcription, summarisation, and real-time analytics for live events.
 - **SmartShopper App**: Flutter app with RAG-based recommendation engine and USSD integration for emerging markets.
 
-## 📈 GitHub Stats
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=derricktab&layout=compact&theme=tokyonight" />
-
 ## 📫 Contact Me
-- 🌐 Portfolio: [derricktab.github.io](https://derricktab.github.io)
 - 🐦 Twitter: [@derrick_tab1](https://twitter.com/derrick_tab1)
 - 🔗 LinkedIn: [derrick-zziwa](https://www.linkedin.com/in/derrick-zziwa/)
 
