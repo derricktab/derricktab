@@ -1,34 +1,33 @@
 
 
-## 🚀 About Me
 Fullstack Machine Learning Developer passionate about building end-to-end AI-powered solutions and cross-platform applications with a focus on performance, scalability, and user experience.
 
 ## 🛠️ Skills & Technologies
 
-### 🤖 Machine Learning & Data Science
+### Machine Learning & Data Science
 - **Languages & Frameworks**: Python, TensorFlow, Keras, PyTorch
 - **Data Engineering**: Pandas, NumPy, scikit-learn, SQL
 - **Model Deployment**: Docker, Kubernetes, FastAPI, Model Context Protocol (MCP)
 - **Generative & Retrieval-Augmented AI**: RAG pipelines, LangChain, custom LLM integrations
 
-### 💻 Fullstack Web Development
+### Fullstack Web Development
 - **Frontend**: Next.js, React, TypeScript
 - **Backend**: Node.js, Express, FastAPI
 - **Databases & APIs**: PostgreSQL, MongoDB, RESTful & GraphQL APIs
 - **DevOps & CI/CD**: GitHub Actions, Docker, AWS / GCP deployments
 
-### 📱 Mobile Development
+### Mobile Development
 - **Flutter & Dart**: Cross-platform UI/UX, custom animations, widget libraries
 - **State Management**: GetX, Provider, Bloc
 - **Backend Integration**: Firebase (Auth, Firestore, Functions), RESTful services
 
-### 🤝 Collaboration & Tools
+### Collaboration & Tools
 - **Version Control**: Git, GitHub, GitFlow
 - **Project Management**: Jira, Trello, Confluence
 - **Documentation & Prototyping**: Jupyter Notebooks, Figma
 - **Continuous Testing**: Jest, pytest, integration tests
 
-## 🌱 Currently Learning
+## Currently Learning
 - Advanced NLP architectures and custom LLM fine-tuning
 - Scalable microservices with MCP and real-time event processing
 
