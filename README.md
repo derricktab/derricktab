@@ -2,7 +2,7 @@
 
 Fullstack Machine Learning Developer passionate about building end-to-end AI-powered solutions and cross-platform applications with a focus on performance, scalability, and user experience.
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### Machine Learning & Data Science
 - **Languages & Frameworks**: Python, TensorFlow, Keras, PyTorch
@@ -31,11 +31,11 @@ Fullstack Machine Learning Developer passionate about building end-to-end AI-pow
 - Advanced NLP architectures and custom LLM fine-tuning
 - Scalable microservices with MCP and real-time event processing
 
-## 📫 Reach Out
+## Reach Out
 - 🐦 Twitter: [@derrick_tab1](https://twitter.com/derrick_tab1)
 - 🔗 LinkedIn: [derrick-zziwa](https://www.linkedin.com/in/derrick-zziwa/)
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 I’m open to contributions, partnerships, and innovative ideas—especially in AI/ML, web/mobile development, and scalable architectures. Feel free to open an issue or send a PR!
 
 ---
